@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-pool-1.6-javadoc1">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool-1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
